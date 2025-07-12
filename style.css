@@ -300,3 +300,40 @@ input[type=email] {
 }
 /*<!--====form section-->*/
 
+/*<!--====Footer Section-->*/
+.footer-section {
+    justify-content: center;
+}
+
+.footer h2 {
+    font-size: 6em;
+    font-weight: 900px;
+    color: #4E47FF;
+    text-align: center;
+}
+ .p{
+    text-align: center;
+    
+}
+footer{
+    padding: 20PX 0;
+    background-color: #FFFFFF;
+    margin-top: 30px;
+}
+.section-content ul {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.section-content ul li a{
+
+  text-decoration: none;
+  color:#8987A1;
+    
+}
+.section-content ul li{
+    list-style:  none;
+}
+/*<!--====Footer Section-->*/
