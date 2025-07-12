@@ -235,3 +235,52 @@ body {
 
 /* ========= card section end  */
 
+/*<!--=====touch animation-->*/
+
+.touch {
+    text-align: center;
+    gap: 20px;
+    padding: 50px 0;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+}
+
+#touch-animation h2 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Raleway", sans-serif;
+    margin: 10px;
+
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.btn5 {
+    padding: 16px 130px;
+    font-weight: 1px;
+    background-color: #4E47FF;
+    border: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.touch img {
+
+    border-radius: 50px;
+}
+
+/*<!--=====touch animation-->*/
+
