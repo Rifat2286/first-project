@@ -1,0 +1,237 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+body {
+    background: rgba(214, 221, 237, 0.5);
+
+}
+
+.bg_img {
+    background-image: url("./images/Hero-bg.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 700px;
+}
+
+.nav {
+    padding: 50px 0;
+}
+
+.btn {
+    background-color: #4e47ff;
+    padding: 12px 36px;
+    border-radius: 10px;
+    border: none;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Raleway", sans-serif;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.banner {
+    padding-top: 110px;
+}
+
+.banner h1 {
+    width: 905px;
+    font-size: 65px;
+    font-weight: bold;
+    color: #252432;
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.btn1 {
+    background-color: #4e47ff;
+    padding: 12px 36px;
+    border-radius: 10px;
+    border: none;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Raleway", sans-serif;
+    margin: 0 auto;
+    display: block;
+    margin-top: 37px;
+}
+
+/* ====== action section start */
+#action {
+    padding: 116px 0;
+}
+
+#action h2 {
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+    font-family: "Raleway", sans-serif;
+
+}
+
+#action p {
+    font-size: 24px;
+    font-weight: 100;
+    color: #252432;
+    opacity: 0.5;
+    width: 450px;
+    margin-top: 23px;
+
+}
+
+#action .btn3 {
+    background-color: #4e47ff;
+    padding: 12px 36px;
+    border-radius: 10px;
+    border: none;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Raleway", sans-serif;
+    display: block;
+    margin-top: 23px;
+
+}
+
+#action .action_wrapper img {
+    border-radius: 30px;
+}
+
+.action_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* ====== action section end */
+
+/* ========= user section start  */
+#user h2 {
+    font-size: 38px;
+    font-weight: bold;
+    color: #252432;
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+}
+
+.user_wrapper {
+    background-color: rgba(78, 71, 255, 0.1);
+    border-radius: 15px;
+    padding: 50px 0;
+}
+
+#user h1 {
+    color: rgb(78, 71, 255);
+    font-weight: bold;
+    font-size: 80px;
+    font-family: "Inter", sans-serif;
+}
+
+#user p {
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: normal;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+}
+
+#user .flex {
+    display: flex;
+
+    justify-content: center;
+    gap: 167px;
+    margin-top: 40px;
+}
+
+#user .col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+/* ========= user section end  */
+/* ========= card section start  */
+#card {
+    padding: 137px 0;
+}
+
+#card h2 {
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#card .card1 {
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    width: 366px;
+    padding: 24px;
+}
+
+#card .card1 h3 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #1E1E1E;
+    font-family: "Inter", sans-serif;
+    margin-top: 24px;
+    margin-bottom: 8px;
+}
+
+#card .card1 p {
+    font-size: 16px;
+    font-weight: normal;
+    color: #1E1E1E;
+    font-family: "Inter", sans-serif;
+    width: 318px;
+    margin-bottom: 24px;
+}
+
+#card .avatar {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+#card .avatar img {
+    border-radius: 50px;
+}
+
+#card .avatar h5 {
+    font-size: 16px;
+    font-weight: 600;
+    color: #757575;
+    font-family: "Inter", sans-serif;
+}
+
+#card .avatar h4 {
+    font-size: 16px;
+    font-weight: normal;
+    color: #B3B3B3;
+    font-family: "Inter", sans-serif;
+}
+
+#card .card_flex {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+/* ========= card section end  */
+
