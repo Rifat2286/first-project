@@ -284,3 +284,19 @@ input[type=email] {
 
 /*<!--=====touch animation-->*/
 
+/*<!--====form section-->*/
+.user3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    padding: 30px 10px;
+   
+}
+.touch-section h2{
+    font-size: 70px;
+    font-weight: 200px;
+}
+/*<!--====form section-->*/
+
